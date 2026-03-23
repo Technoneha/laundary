@@ -90,6 +90,17 @@
     background-color: rgb(251, 251, 251);
 
 }
+
+
+.hero h1{
+    font-size: 36px;
+    color: #333;
+}
+
+.hero p{
+    margin: 20px 0;
+    color: #666;
+}
 .hero-left span{
     color:  rgb(94, 189, 248) ;
     
@@ -104,7 +115,10 @@
     border-radius: 10px;
     padding-left: 40px;
     padding-right: 40px;
-    
+    cursor: pointer;
+}
+button:hover{
+    background-color: blueviolet;
 }
 
 
