@@ -20,7 +20,7 @@ The design ensures that the hero section fits perfectly within the screen using 
 ## 🚀 Live Preview
 
 👉 *(Add your live link here — Netlify / GitHub Pages)*
-Example:[(https://laundrymartwallahh.netlify.app/) ]
+Example:[(https://laundrymartwallahh.netlify.app/ https://technoneha.github.io/laundary/) ]
 
 ---
 
